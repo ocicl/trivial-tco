@@ -1,0 +1,10 @@
+* trivial-tco
+
+A Common Lisp library to assist in ensuring certain code is executed with tail call optimizations enabled.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rmoritz/trivial-tco.git   |
+| commit  | 907cc46  |
+| systems | trivial-tco |
+|---------+-------------------------------------------|
+
